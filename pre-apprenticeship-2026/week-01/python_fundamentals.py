@@ -76,7 +76,7 @@ print(age)
 print(type(age))
 
 # ==============================
-# 5. Conditionals
+# 6. Conditionals
 # ==============================
 
 score = 85
