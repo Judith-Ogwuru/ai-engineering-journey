@@ -1,0 +1,17 @@
+{
+ "total_revenue": 4825.0,
+ "number_of_sales": 4,
+ "average_revenue": 1206.25,
+ "maximum_sale_revenue": 3600.0,
+ "minimum_sale_revenue": 250.0,
+ "highest_value_sale": {
+  "product": "Laptop",
+  "quantity": 3,
+  "price": 1200.0
+ },
+ "lowest_value_sale": {
+  "product": "Mouse",
+  "quantity": 10,
+  "price": 25.0
+ }
+}

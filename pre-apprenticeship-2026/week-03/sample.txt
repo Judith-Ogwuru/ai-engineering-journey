@@ -1,0 +1,2 @@
+Hello from week 3.
+I am learning file handling.
